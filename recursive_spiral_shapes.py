@@ -30,12 +30,12 @@ def color_rotate(r, g, b, rr, gg, bb):
         if x < xx:
             x += 2
             if x > xx:
-                x = xx
+                x = int(xx)
         else:
             x -= 2
             if x < xx:
-                x = xx
-        return x
+                x = int(xx)
+        return int(x)
     r = check_color(r, rr)
     g = check_color(g, gg)
     b = check_color(b, bb)
