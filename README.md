@@ -1,3 +1,3 @@
 recursive_spiral
-recursive function to spine any shapes in turtle
+recursive function towards spiral shapes turtle
 ![alt text](https://github.com/sophiarora/recursive_spiral/blob/master/Screen%20Shot%202018-04-27%20at%2012.32.08%20AM.png)
